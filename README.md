@@ -6,7 +6,7 @@ untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dis
 Aamiin
 
 ## Desain Kelas (Diagram)
-![lp4_dpbo](https://github.com/jasminefwz/LP4DPBO2024C2/assets/147362810/de695fb6-533d-4984-ab97-a6e5d81bd494)
+![lp4_dpbo](https://github.com/jasminefwz/LP4DPBO2024C2/assets/147362810/deea6354-cdb4-4b61-8c01-53d288d84a25)
 
 ## Desain Program
 
