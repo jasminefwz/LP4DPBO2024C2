@@ -15,4 +15,4 @@ Aamiin
 ## Dokumentasi Program saat Dijalankan
 ### Contoh -> Bahasa Python
 Tampilan informasi garage dan informasi parking lot serta daftar kendaraannya
-![lp4_dpbo](https://github.com/jasminefwz/LP4DPBO2024C2/assets/147362810/ff805bd8-0aae-497c-ab0d-b402dc0d6179)
+<img width="351" alt="output" src="https://github.com/jasminefwz/LP4DPBO2024C2/assets/147362810/7200456a-47b7-4701-a191-24da53f95675">
