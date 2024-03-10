@@ -9,27 +9,27 @@ Aamiin
 ![lp4_dpbo](https://github.com/jasminefwz/LP4DPBO2024C2/assets/147362810/deea6354-cdb4-4b61-8c01-53d288d84a25)
 
 ## Desain Program
-1. Kelas Vehicle
+**1. Kelas Vehicle**
 
 Kelas ini berfungsi sebagai kelas dasar yang merepresentasikan kendaraan serta menjadi kelas orangtua bagi kelas Car dan kelas Motorcycle. Memiliki atribut seperti kode kendaraan, plat nomor, merk, tahun produksi, dan warna, serta terdapat metode untuk menampilkan informasi kendaraan.
 
-3. Kelas Car
+**2. Kelas Car**
 
 Kelas ini merupakan kelas turunan dari kelas Vehicle. Terdapat atribut seperti jumlah kursi dan jumlah pintu. Meng-override metode untuk menampilkan informasi kendaraan.
 
-5. Kelas Motorcycle
+**3. Kelas Motorcycle**
 
 Kelas ini merupakan kelas turunan dari kelas Vehicle, khusus untuk sepeda motor. Terdapat atribut seperti jenis motor dan kapasitas tangki. Meng-override metode untuk menampilkan informasi kendaraan.
 
-6. Kelas Garage
+**4. Kelas Garage**
 
 Kelas yang merepresentasikan sebuah garasi untuk menyimpan kendaraan. Memiliki atribut seperti nama garasi, luas garasi, dan daftar kendaraan yang tersimpan. Terdapat metode untuk menambahkan kendaraan ke dalam garasi juga menampilkan informasi garasi beserta kendaraannya.
 
-7. Kelas ParkingLot
+**5. Kelas ParkingLot**
 
 Kelas yang merepresentasikan tempat parkir umum dengan kapasitas tertentu. Memiliki atribut kapasitas, jumlah kendaraan yang saat ini terparkir, dan daftar kendaraan yang terparkir. Terdapat metode untuk memarkirkan kendaraan serta menampilkan informasi tempat parkir beserta kendaraannya.
 
-8. Kelas Main
+**6. Kelas Main**
 
 Membuat beberapa objek kendaraan seperti mobil dan sepeda motor kemudian membuat objek garasi dan objek tempat parkir. Dapat menambahkan kendaraan ke dalam garasi dan tempat parkir serta mnampilkan informasi garasi dan tempat parkir beserta kendaraannya.
 
